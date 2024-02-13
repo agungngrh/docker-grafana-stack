@@ -7,7 +7,7 @@ Here is a combination of monitoring using Grafana, Prometheus, Node Exporter, Bl
 Run below command to copy repository
 
 ```
-git clone https://github.com/agungngrh/docker-grafana-stack.git
+git clone https://github.com/goongrh/docker-grafana-stack.git
 ```
 
 Go into the directory
