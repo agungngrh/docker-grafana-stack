@@ -16,7 +16,7 @@ Go into the directory
 cd docker-grafana-stack
 ```
 
-> **Change the configuration according to your needs.**
+> **Change the configuration depends to your needs.**
 
 By default user and password when login is **admin:admin**. To change that you can edit grafana/config.monitoring
 
