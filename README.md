@@ -51,7 +51,7 @@ You can access Grafana UI from the browser by entering ip_address:3000, enter th
 
 ### Blackbox sends a message if any target website is down
 
-1. First of all, you must create a new Telegram bot with BotFather. Click on this link https://t.me/botfather or you can open Telegram then search for BotFather
+1. First of all, you must create a Telegram bot with BotFather. Click on this link https://t.me/botfather or you can open Telegram then search for BotFather
 
     ![](https://github.com/goongrh/docker-grafana-stack/blob/main/images/botfather.png)
 
