@@ -7,7 +7,7 @@ Hello guys! Here is a combination of monitoring using Grafana, Prometheus, Node 
 Run command below to copy repository
 
 ```
-git clone https://github.com/agungngrh/docker-grafana-stack.git
+git clone https://github.com/goongrh/docker-grafana-stack.git
 ```
 
 Go into the directory
@@ -67,7 +67,7 @@ You can access Grafana UI from the browser by entering ip_address:3000, enter th
     ```
     https://api.telegram.org/bot< YOUR BOT API TOKEN >/getUpdates
     ```
-    To get your Telegram group ID you must send 1 message in the group.Refresh the tab then find the ID. The ID begins with -
+    To get your Telegram group ID you must send 1 message in the group. Refresh the tab then find the ID. The ID begins with -
 
 7. Open your Grafana UI, click on ☰ Menu > 🔔Alerting > Contact points
 
